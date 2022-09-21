@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1614170659 source:c:\users\ainball\desktop\projet-othello\jeu.c
+	<stdio.h>
+	<stdlib.h>
+
+1614098837 source:c:\users\ainball\desktop\projet-othello\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1614119863 c:\users\ainball\desktop\projet-othello\header.h
+
+1614244432 source:c:\users\ainball\desktop\2021_projetc_gi_salmadarhouane_imanehamane\projet-othello\jeu.c
+	<stdio.h>
+	<stdlib.h>
+
+1614098837 source:c:\users\ainball\desktop\2021_projetc_gi_salmadarhouane_imanehamane\projet-othello\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1614119863 c:\users\ainball\desktop\2021_projetc_gi_salmadarhouane_imanehamane\projet-othello\header.h
+
+1614244432 source:c:\users\ainball\desktop\s1\c\2021_projetc_gi_salmadarhouane_imanehamane\projet-othello\jeu.c
+	<stdio.h>
+	<stdlib.h>
+
+1614098837 source:c:\users\ainball\desktop\s1\c\2021_projetc_gi_salmadarhouane_imanehamane\projet-othello\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1616754050 c:\users\ainball\desktop\s1\c\2021_projetc_gi_salmadarhouane_imanehamane\projet-othello\header.h
+
